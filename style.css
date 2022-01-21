@@ -1,3 +1,16 @@
+body {
+    background-color: #E5E5E5;
+}
 .header-bg {
     background-color: #562EFF;
+}
+.top-bg {
+    background-color: #FFFFFF;
+}
+.duration {
+    background-color: #FFE4E8;
+    color: #ED6B4F;
+}
+.checked {
+    color: orange;
 }
